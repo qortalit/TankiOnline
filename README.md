@@ -1,5 +1,6 @@
 ## Содержание
-[Баги](https://github.com/qortalit/TankiOnline/issues)
+[Баги](https://github.com/qortalit/TankiOnline/issues) архив
+<br>[Объявления](https://github.com/qortalit/TankiOnline/discussions/16)
 
 ### Полезные ссылки
 [Tanki Online](https://tankionline.com/)
